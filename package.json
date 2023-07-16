@@ -1,0 +1,20 @@
+{
+  "name": "react-native-new-architecture",
+  "version": "1.0.0",
+  "description": "react native new architecture  learn",
+  "main": "vue@2.7.3.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sillyhong/react-native-new-architecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sillyhong/react-native-new-architecture/issues"
+  },
+  "homepage": "https://github.com/sillyhong/react-native-new-architecture#readme"
+}
