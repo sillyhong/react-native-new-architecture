@@ -12,10 +12,10 @@
     document.getElementsByTagName('head')[0].appendChild(domScript)
   }
 
-  loadJS('https://static001.geekbang.org/static/time/js/index.f0ea1a3a.js', function () {
-    loadJS('https://static001.geekbang.org/static/time/js/chunk-vendors.402b7f3d.js', function () {
-      // loadJS('$app')
-    })
-  })
+  // loadJS('https://static001.geekbang.org/static/time/js/index.f0ea1a3a.js', function () {
+  //   loadJS('https://static001.geekbang.org/static/time/js/chunk-vendors.402b7f3d.js', function () {
+  //     // loadJS('$app')
+  //   })
+  // })
 })()
 
